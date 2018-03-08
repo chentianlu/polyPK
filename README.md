@@ -14,5 +14,4 @@ multivariate statistical analysis, correlations, cluster analyses and resulting 
 may serve a wide range of users, including pharmacologists, biologists and doctors, in understanding
 the metabolic fate of multi-component drugs.
 
-Availability and implementation: polyPK package is freely available from the R archive CRAN
-(https://CRAN.R-project.org/package¼polyPK).
+polyPK package is freely available here and from the R archive CRAN (https://CRAN.R-project.org/package=polyPK).
