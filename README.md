@@ -15,3 +15,4 @@ may serve a wide range of users, including pharmacologists, biologists and docto
 the metabolic fate of multi-component drugs.
 
 polyPK package is freely available here and from the R archive CRAN (https://CRAN.R-project.org/package=polyPK).
+Please cite: Mengci Li, Shouli Wang, Guoxiang Xie, Xiaohui Ma, Tianlu Chen*, Wei Jia*, polyPK: An R package for pharmacokinetic analysis of multi-component drugs using a metabolomics approach, bioinformatics, 2017.12, https://doi.org/10.1093/bioinformatics/btx834.
